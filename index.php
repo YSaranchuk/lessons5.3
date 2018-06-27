@@ -16,7 +16,7 @@
                 <label>
                     Сортировать по:
                     <select name="sortBy" id="sortBy">
-                        <option value="date">Фамилии</option>
+                        <option value="date">Фамилия</option>
                         <option value="status">Имени отчеству</option>
                         <option value="description">телефону</option>
                     </select>
