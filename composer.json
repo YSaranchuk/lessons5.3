@@ -1,0 +1,7 @@
+{
+    "require": {
+        "twig/twig": "^1.0",
+        "laravel/installer": "^2.0",
+        "yandex/geo": "^1.1"
+    }
+}
